@@ -17,14 +17,18 @@ Head over to [Projects](https://academicpages.github.io/talks) page to see cool 
 Education
 ------
 University of Toronto <small>(*2022 - 2027*)</small>  
-- Bachelor of Applied Science in Engineering Science (BASc)  
-- Major in Robotics Engineering  
-- Minor in Artificial Intelligence  
-- PEY Co-op
+    - Bachelor of Applied Science in Engineering Science (BASc)  
+    - Major in Robotics Engineering  
+    - Minor in Artificial Intelligence  
+    - PEY Co-op
 
 Awards
 ------
+Engineering Science Research Opportunity Program 
 Dean's Merit Award 
+Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450
+Schulich Leader Scholarship Finalist
+
 
 
 Example: editing a markdown file for a talk
