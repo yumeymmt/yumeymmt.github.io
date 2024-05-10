@@ -19,10 +19,10 @@ Head over to [Projects](https://academicpages.github.io/talks) page to see cool 
 Education
 ------
 University of Toronto <span style="font-size: 0.95em;">*(2022 - 2027)*</span>    
-- <span style="font-size: 0.9em; line-height: 1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span>  
-- <span style="font-size: 0.9em; line-height: 1.5;">Major in Robotics Engineering</span>  
-- <span style="font-size: 0.9em; line-height: 1.5;">Minor in Artificial Intelligence</span>  
-- <span style="font-size: 0.9em; line-height: 1.5;">PEY Co-op</span>
+- <span style="font-size: 0.9em; line-height: 3;">Bachelor of Applied Science in Engineering Science (BASc)</span>  
+- <span style="font-size: 0.9em; line-height: 3;">Major in Robotics Engineering</span>  
+- <span style="font-size: 0.9em; line-height: 3;">Minor in Artificial Intelligence</span>  
+- <span style="font-size: 0.9em; line-height: 3;">PEY Co-op</span>
 
 Awards
 ------
