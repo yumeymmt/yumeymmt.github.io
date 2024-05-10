@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yume Yamamoto"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yume Yamamoto"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : "Robotics Engineering & AI student"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : # URL
