@@ -19,7 +19,7 @@ Head over to [Projects](https://academicpages.github.io/talks) page to see cool 
 Education
 ------
 University of Toronto (*2022 - 2027*)  
-<div style="line-height: 1.2;">
+<div style="margin-top: -0.5em;">
 - <span style="font-size: 0.9em;">Bachelor of Applied Science in Engineering Science (BASc)</span>  
 - <span style="font-size: 0.9em;">Major in Robotics Engineering</span>  
 - <span style="font-size: 0.9em;">Minor in Artificial Intelligence</span>  
