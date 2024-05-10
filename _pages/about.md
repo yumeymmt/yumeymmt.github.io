@@ -12,12 +12,14 @@ My name is Yume, and I am going into third year of Engineering Science program a
 I find passion in robotics, artificial intelligence, control systems and just building things in general! 
 I also have strong interest in aerospace and biomedical systems, as well as in systems engineering. 
 
+Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff. 
+
 Education
 ------
-University of Toronto <small>*2022 - 2027*</small>
-- Bachelor of Applied Science in Engineering Science (BASc)
-- Major in Robotics Engineering 
-- Minor in Artificial Intelligence
+University of Toronto         <small>*2022 - 2027*</small><br>
+- Bachelor of Applied Science in Engineering Science (BASc)<br>
+- Major in Robotics Engineering<br>
+- Minor in Artificial Intelligence<br>
 - PEY Co-op
 
 How to edit your site's GitHub repository
