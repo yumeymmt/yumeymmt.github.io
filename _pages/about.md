@@ -18,17 +18,20 @@ Head over to [Projects](https://academicpages.github.io/talks) page to see cool 
 
 Education
 ------
-University of Toronto <small>(*2022 - 2027*)</small>  
+University of Toronto (*2022 - 2027*)  
+<div style="line-height: 1.2;">
 - <span style="font-size: 0.9em;">Bachelor of Applied Science in Engineering Science (BASc)</span>  
 - <span style="font-size: 0.9em;">Major in Robotics Engineering</span>  
 - <span style="font-size: 0.9em;">Minor in Artificial Intelligence</span>  
 - <span style="font-size: 0.9em;">PEY Co-op</span>
+</div>
 
 Awards
 ------
 Engineering Science Research Opportunity Program 
+
 Dean's Merit Award 
+
 Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450
+
 Schulich Leader Scholarship Finalist
-
-
