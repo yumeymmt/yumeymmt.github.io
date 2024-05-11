@@ -11,7 +11,6 @@ redirect_from:
   My name is Yume, and I am going into the third year of the Engineering Science program at the University of Toronto. <br>
   <br>
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
-  <br>
   I also have a strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
   <br>
   My CV can be accessed here. <br>
@@ -22,7 +21,7 @@ redirect_from:
 
 Education
 ------
-<span style="line-height: 1;">
+<span style="line-height: 1.1;">
 University of Toronto <span style="font-size: 0.94em;">(2022 - 2027)</span>
 - <span style="font-size: 0.9em">Bachelor of Applied Science in Engineering Science (BASc)</span>  
 - <span style="font-size: 0.9em">Major in Robotics Engineering</span>  

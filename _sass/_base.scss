@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
+  padding-bottom: 0.001em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1;
@@ -58,7 +58,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0em;
+  margin-bottom: 5em;
 }
 
 u,
