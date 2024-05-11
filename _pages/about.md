@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yume, and I am going into third year of Engineering Science program at University of Toronto. 
+<span style="line-height: 1.5">
+My name is Yume, and I am going into third year of Engineering Science program at University of Toronto. <br>
 
-I find passion in robotics, artificial intelligence, control systems and just building things in general! 
-I also have strong interest in aerospace and biomedical systems, as well as in systems engineering.
+I find passion in robotics, artificial intelligence, control systems and just building things in general!<br>
+I also have strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
 
-My CV can be accessed here. 
+My CV can be accessed here. <br>
 
 Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff. 
+</span>
 
 Education
 ------
