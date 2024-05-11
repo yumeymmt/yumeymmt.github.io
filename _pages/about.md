@@ -25,7 +25,7 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Minor in Artificial Intelligence</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;">PEY Co-op</span>
+- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
   <span>Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span></span>
