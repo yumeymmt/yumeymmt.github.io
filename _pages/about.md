@@ -22,11 +22,13 @@ redirect_from:
 
 Education
 ------
+<span style="line-height: 1;">
 University of Toronto <span style="font-size: 0.94em;">(2022 - 2027)</span>
 - <span style="font-size: 0.9em">Bachelor of Applied Science in Engineering Science (BASc)</span>  
 - <span style="font-size: 0.9em">Major in Robotics Engineering</span>  
 - <span style="font-size: 0.9em">Minor in Artificial Intelligence</span>  
 - <span style="font-size: 0.9em">PEY Co-op</span>
+</span>
 
 Awards
 ------
