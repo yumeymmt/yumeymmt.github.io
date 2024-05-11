@@ -211,6 +211,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  project:
+    output: true
+    permalink: /:collection/:path/  
 
 
 # Defaults
@@ -260,6 +263,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _projects
+  - scope:
+      path: ""
+      type: project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true      
   # _talks
   - scope:
       path: ""
