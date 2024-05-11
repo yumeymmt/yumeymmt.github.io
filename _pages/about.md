@@ -18,6 +18,9 @@ redirect_from:
   Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff.
 </span>
 
+
+Education
+------
 <span style="line-height: 1.1;">
   University of Toronto <span style="font-size: 0.94em;">(2022 - 2027)</span><br>
   - <span style="font-size: 0.9em;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
