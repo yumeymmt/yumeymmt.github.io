@@ -18,22 +18,19 @@ redirect_from:
   Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff.
 </span>
 
-
 Education
 ------
-<p style="line-height: 1.1;">
-  University of Toronto <span style="font-size: 0.94em;">(2022 - 2027)</span>
-  <ul style="list-style-type: disc;">
-    <li><span style="font-size: 0.9em;">Bachelor of Applied Science in Engineering Science (BASc)</span></li>
-    <li><span style="font-size: 0.9em;">Major in Robotics Engineering</span></li>
-    <li><span style="font-size: 0.9em;">Minor in Artificial Intelligence</span></li>
-    <li><span style="font-size: 0.9em;">PEY Co-op</span></li>
-  </ul>
-</p>
+**University of Toronto**<span style="font-size: 0.94em;">(2022 - 2027)</span>
+- <span style="font-size: 0.9em; line-height:1.1;">Bachelor of Applied Science in Engineering Science (BASc)</span>
+- <span style="font-size: 0.9em; line-height:1.1;">Major in Robotics Engineering</span>
+- <span style="font-size: 0.9em; line-height:1.1;">Minor in Artificial Intelligence</span>
+- <span style="font-size: 0.9em; line-height:1.1;">PEY Co-op</span>
 
 Awards
 ------
 Engineering Science Research Opportunity Program 
+
+Dean's Honors List
 
 Dean's Merit Award 
 
