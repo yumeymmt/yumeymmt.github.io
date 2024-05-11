@@ -27,8 +27,6 @@ Education
 - <span style="font-size: 0.92em; line-height:1.4;">Minor in Artificial Intelligence</span><br>
 - <span style="font-size: 0.92em; line-height:1.4;">PEY Co-op</span>
 
-<br>
-
 <div style="margin-bottom: 2px;">
   <span>Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span></span>
 </div>
@@ -45,6 +43,8 @@ Awards
   Dean's Merit Award<br>
   <br>
   Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450<br>
+  <br>
+  First Place - Engineering Case Competition by Qualcomm
   <br>
   Schulich Leader Scholarship Finalist
 </span>
