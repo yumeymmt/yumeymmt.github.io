@@ -19,7 +19,7 @@ redirect_from:
 
 Education
 ------
-<div style="margin-bottom: 50px;">
+<div style="margin-bottom: 10px;">
   <span>University of Toronto<span style="font-size: 0.94em;"> (2022 - 2027)</span></span>
 </div>
 <span style="font-size: 0.9em; line-height:1.2; margin-left: 30px;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
