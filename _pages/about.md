@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<span style="line-height: 1.5;">
+<br>
+<span style="line-height: 1.5; font-size: 0.97em">
   My name is Yume, and I am going into the third year of the Engineering Science program at the University of Toronto. <br>
   <br>
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
@@ -20,7 +21,7 @@ redirect_from:
 
 Education
 ------
-<span style="margin-bottom: 20px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
+<span style="display: block; margin-bottom: 20px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Major in Robotics Engineering</span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Minor in Artificial Intelligence</span><br>
