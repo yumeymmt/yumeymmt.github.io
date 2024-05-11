@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<br>
 <span style="line-height: 1.5; font-size: 0.97em">
   My name is Yume, and I am going into the third year of the Engineering Science program at the University of Toronto. <br>
   <br>
@@ -21,7 +20,7 @@ redirect_from:
 
 Education
 ------
-<span style="display: block; margin-bottom: 10px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
+<span style="display: block; margin-bottom: 0px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Major in Robotics Engineering</span><br>
 <span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Minor in Artificial Intelligence</span><br>
@@ -29,12 +28,14 @@ Education
 
 Awards
 ------
-Engineering Science Research Opportunity Program 
-
-Dean's Honors List
-
-Dean's Merit Award 
-
-Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450
-
-Schulich Leader Scholarship Finalist
+<span style="line-height: 1.5; font-size: 0.97em">
+  Engineering Science Research Opportunity Program<br> 
+  <br>
+  Dean's Honors List<br>
+  <br>
+  Dean's Merit Award<br>
+  <br>
+  Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450<br>
+  <br>
+  Schulich Leader Scholarship Finalist
+</span>
