@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="line-height: 1.5; font-size: 0.97em">
-  My name is Yume, and I am going into the third year of the Engineering Science program at the University of Toronto. <br>
+  My name is Yume, and I am going into third year of the Engineering Science program at the University of Toronto. <br>
   <br>
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
   I also have a strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
@@ -22,16 +22,16 @@ Education
 <div style="margin-bottom: 2px;">
   <span>University of Toronto<span style="font-size: 0.94em;"> (2022 - 2027)</span></span>
 </div>
-- <span style="font-size: 0.92em; line-height:1.4;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
-- <span style="font-size: 0.92em; line-height:1.4;">Major in Robotics Engineering</span><br>
-- <span style="font-size: 0.92em; line-height:1.4;">Minor in Artificial Intelligence</span><br>
-- <span style="font-size: 0.92em; line-height:1.4;">PEY Co-op</span>
+- <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Minor in Artificial Intelligence</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
   <span>Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span></span>
 </div>
-- <span style="font-size: 0.92em; line-height:1.4;">Ontario Secondary School Diploma (OSSD)</span><br>
-- <span style="font-size: 0.92em; line-height:1.4;">Talented Offerings in Programmes of Sciences</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
 
 Awards
 ------
@@ -44,7 +44,7 @@ Awards
   <br>
   Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450<br>
   <br>
-  First Place - Engineering Case Competition by Qualcomm
+  First Place - Engineering Case Competition by Qualcomm<br>
   <br>
   Schulich Leader Scholarship Finalist
 </span>
