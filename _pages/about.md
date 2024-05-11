@@ -14,17 +14,16 @@ redirect_from:
   I also have a strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
   <br>
   My CV can be accessed here. <br>
-  <br>
   Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff.
 </span>
 
 Education
 ------
-<span style="display: block; margin-bottom: 0px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
-<span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
-<span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Major in Robotics Engineering</span><br>
-<span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">Minor in Artificial Intelligence</span><br>
-<span style="font-size: 0.9em; line-height:1.1; margin-left: 30px;">PEY Co-op</span>
+<span style="margin-bottom: 50px;">University of Toronto<span style="font-size: 0.94em;">  (2022 - 2027)</span></span><br>
+<span style="font-size: 0.9em; line-height:1.2; margin-left: 30px;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
+<span style="font-size: 0.9em; line-height:1.2; margin-left: 30px;">Major in Robotics Engineering</span><br>
+<span style="font-size: 0.9em; line-height:1.2; margin-left: 30px;">Minor in Artificial Intelligence</span><br>
+<span style="font-size: 0.9em; line-height:1.2; margin-left: 30px;">PEY Co-op</span>
 
 Awards
 ------
