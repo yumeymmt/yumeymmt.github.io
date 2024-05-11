@@ -27,6 +27,14 @@ Education
 - <span style="font-size: 0.92em; line-height:1.4;">Minor in Artificial Intelligence</span><br>
 - <span style="font-size: 0.92em; line-height:1.4;">PEY Co-op</span>
 
+<br>
+
+<div style="margin-bottom: 2px;">
+  <span>Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span></span>
+</div>
+- <span style="font-size: 0.92em; line-height:1.4;">Ontario Secondary School Diploma (OSSD)</span><br>
+- <span style="font-size: 0.92em; line-height:1.4;">Talented Offerings in Programmes of Sciences</span><br>
+
 Awards
 ------
 <span style="line-height: 1.5; font-size: 0.97em">
