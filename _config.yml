@@ -21,7 +21,7 @@ repository               : "yumeymmt/yumeymmt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yume Yamamoto"
   pronouns         : "she/her"  
   bio              : "Robotics & AI Engineering Student"
