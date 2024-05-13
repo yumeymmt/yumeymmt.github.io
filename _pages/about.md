@@ -28,7 +28,7 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
-  <span>Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span></span>
+  <strong>Bloor Collegiate Institute</strong><span style="font-size: 0.94em;"> (2018 - 2021)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
