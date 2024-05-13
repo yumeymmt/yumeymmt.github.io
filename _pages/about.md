@@ -13,7 +13,6 @@ redirect_from:
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
   I also have a strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
   <br>
-  My CV can be accessed here. <br>
   Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff.
 </span>
 
