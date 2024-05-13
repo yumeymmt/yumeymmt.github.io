@@ -20,9 +20,8 @@ redirect_from:
 Education
 ------
 <div style="margin-bottom: 2px;">
-  <span style="font-family: Avenir, sans-serif;"><strong>University of Toronto</strong><span style="font-size: 0.94em;"> <strong>(2022 - 2027)</strong></span></span>
+  <span style="font-family: Roboto, sans-serif;"><strong>University of Toronto</strong><span style="font-size: 0.94em;"> <strong>(2022 - 2027)</strong></span></span>
 </div>
-Toronto, Canada
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Minor in Artificial Intelligence</span><br>
