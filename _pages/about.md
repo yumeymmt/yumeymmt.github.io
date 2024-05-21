@@ -11,15 +11,15 @@ redirect_from:
   My name is Yume, and I am going into third year of the Engineering Science program at the University of Toronto. <br>
   <br>
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
-  I also have a strong interest in aerospace and biomedical systems, as well as in systems engineering.<br>
+  I also have a strong interest in aerospace and biomedical applications of robotics, as well as in systems engineering.<br>
   <br>
-  Head over to [Projects](https://academicpages.github.io/talks) page to see cool stuff.
+  Head over to [Projects](https://academicpages.github.io/talks) to see cool stuff.
 </span>
 
 Education
 ------
 <div style="margin-bottom: 2px;">
-  University of Toronto<span style="font-size: 0.94em;"> (2022 - 2027)</span>
+  **University of Toronto**<span style="font-size: 0.94em;"> (2022 - 2027)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
@@ -27,7 +27,7 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
-  Bloor Collegiate Institute<span style="font-size: 0.94em;"> (2018 - 2021)</span>
+  **Bloor Collegiate Institute**<span style="font-size: 0.94em;"> (2018 - 2021)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
