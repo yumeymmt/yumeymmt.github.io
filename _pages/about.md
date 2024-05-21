@@ -19,7 +19,7 @@ redirect_from:
 Education
 ------
 <div style="margin-bottom: 2px;">
-  <b>University of Toronto</b><span style="font-size: 0.93em;"> (2022 - 2027)</span>
+  University of Toronto<span style="font-size: 0.93em;"> (2022 - 2027)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
@@ -27,7 +27,7 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
-  <b>Bloor Collegiate Institute</b><span style="font-size: 0.93em;"> (2018 - 2021)</span>
+  <span style="font-weight: 600;">Bloor Collegiate Institute</span><span style="font-size: 0.93em;"> (2018 - 2021)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
