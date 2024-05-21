@@ -19,7 +19,7 @@ redirect_from:
 Education
 ------
 <div style="margin-bottom: 2px;">
-  **University of Toronto**<span style="font-size: 0.94em;"> (2022 - 2027)</span>
+  <b>University of Toronto</b><span style="font-size: 0.93em;"> (2022 - 2027)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
@@ -27,10 +27,18 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">PEY Co-op</span>
 
 <div style="margin-bottom: 2px;">
-  **Bloor Collegiate Institute**<span style="font-size: 0.94em;"> (2018 - 2021)</span>
+  <b>Bloor Collegiate Institute</b><span style="font-size: 0.93em;"> (2018 - 2021)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
+
+Certificates
+------
+<span style="line-height: 1.5; font-size: 0.97em">
+  Certified SOLIDWORKS Associate in Mechanical Design<br> 
+  <br>
+  Basic Machining (George Brown College)<br>
+</span>
 
 Awards
 ------
