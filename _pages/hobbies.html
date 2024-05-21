@@ -4,10 +4,55 @@ title: "Hobbies"
 permalink: /hobbies/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-{% for post in site.hobbies %}
-  {% include archive-single.html %}
-{% endfor %}
+<head>
+  <link rel="stylesheet" href="hobbies.css"> <!-- Ensure the path is correct -->
+</head>
+<body>
+<div class="gallery">
+  <input type="radio" name="gallery" id="img1">
+  <label for="img1">
+    <img src='/images/500x300.png' alt="a forest after an apocalypse">
+    <div class="description">a forest after an apocalypse</div>
+  </label>
+  <input type="radio" name="gallery" id="img2">
+  <label for="img2">
+    <img src='/images/500x300.png' alt="a waterfall and many rocks">
+    <div class="description">a waterfall and many rocks</div>
+  </label>
+  <input type="radio" name="gallery" id="img3">
+  <label for="img3">
+    <img src='/images/500x300.png' alt="a house on a mountain">
+    <div class="description">a house on a mountain</div>
+  </label>
+  <input type="radio" name="gallery" id="img4">
+  <label for="img4">
+    <img src='/images/500x300.png' alt="sime pink flowers">
+    <div class="description">sime pink flowers</div>
+  </label>
+  <input type="radio" name="gallery" id="img5">
+  <label for="img5">
+    <img src='/images/500x300.png' alt="big rocks with some trees">
+    <div class="description">big rocks with some trees</div>
+  </label>
+  <input type="radio" name="gallery" id="img6">
+  <label for="img6">
+    <img src='/images/500x300.png' alt="a waterfall, a lot of tree and a great view from the sky">
+    <div class="description">a waterfall, a lot of tree and a great view from the sky</div>
+  </label>
+  <input type="radio" name="gallery" id="img7">
+  <label for="img7">
+    <img src='/images/500x300.png' alt="a cool landscape">
+    <div class="description">a cool landscape</div>
+  </label>
+  <input type="radio" name="gallery" id="img8">
+  <label for="img8">
+    <img src='/images/500x300.png' alt="inside a town between two big buildings">
+    <div class="description">inside a town between two big buildings</div>
+  </label>
+  <input type="radio" name="gallery" id="img9">
+  <label for="img9">
+    <img src='/images/500x300.png' alt="a great view of the sea above the mountain">
+    <div class="description">a great view of the sea above the mountain</div>
+  </label>
+</div>
+</body>

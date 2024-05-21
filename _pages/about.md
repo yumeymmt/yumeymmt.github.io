@@ -19,7 +19,7 @@ redirect_from:
 Education
 ------
 <div style="margin-bottom: 2px;">
-  University of Toronto<span style="font-size: 0.93em;"> (2022 - 2027)</span>
+  <span style="font-weight: 600;">University of Toronto</span><span style="font-size: 0.93em;"> (2022 - 2027)</span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Bachelor of Applied Science in Engineering Science (BASc)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Major in Robotics Engineering</span><br>
