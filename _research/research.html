@@ -10,9 +10,18 @@ author_profile: true
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
 .container {
   position: relative;
-  width: 50%;
+  width: calc(50% - 30px); /* 50% width minus margin */
+  margin: 15px;
 }
 
 .image {
@@ -62,6 +71,8 @@ author_profile: true
     <a href="https://yumeymmt.github.io/portfolio/portfolio-1/" class="text">John Doe</a>
   </div>
 </div>
+
+<br>
 
 <div class="container">
   <img src="/images/500x300.png" alt="Avatar" class="image" style="width:100%">
