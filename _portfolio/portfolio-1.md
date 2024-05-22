@@ -1,6 +1,6 @@
 ---
 title: "Praxis III: "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Enhancing the resilience of households in urban Bangladesh to the irregularity of the waste collection system through increasing household garbage storage capacity.<br/><img src='/images/praxisIII.png'>"
 collection: portfolio
 ---
 
