@@ -5,9 +5,112 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
 
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
+.container {
+  position: relative;
+  width: calc(50% - 30px); 
+  margin: 15px;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  width: 80%;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #5ac2dc;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+  display: block;
+  text-decoration: none;
+  /* Add some space between the link and paragraph margin-bottom: 10px; */
+  width: 100%; /* Make the text container full width within the middle container */
+  box-sizing: border-box; /* Include padding in the element's total width and height */
+  text-align: left; 
+}
+</style>
+</head>
+<body>
+
+<p><span style="line-height: 1.5; font-size: 0.97em">Hover over an image for description.</span></p>
+
+<div class="row">
+  <div class="container">
+    <img src="/images/SN.jpeg" alt="SN" class="image">
+    <div class="middle">
+      <p class="text">Skule Nite</p>
+      <p class="text">Lighting designer at the engineering theatre production "Skule Nite". I also volunteer for lighting 
+        at Hart House Theatre!
+      </p>
+    </div>
+  </div>
+
+  <div class="container">
+    <img src="/images/music.JPG" alt="Orchestra" class="image" style="width: 50%;">
+    <div class="middle">
+      <p class="text">Music + Orchestra</p>
+      <p class="text">Play violin at community orchestra + at RCM Gr.10 level.
+      </p>  
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row">
+  <div class="container">
+    <img src="/images/frc.JPG" alt="FRC" class="image">
+    <div class="middle">
+      <p class="text">Volunteering and Mentoring for FIRST Robotics</p>
+      <p class="text">Mentoring a high school team, and volunteering at competitions as a robot inspector. 
+      </p>
+    </div>
+  </div>
+  <div class="container">
+    <img src="/images/frosh.JPG" alt="Frosh" class="image">
+    <div class="middle">
+      <p class="text">First Year Orientation</p>
+      <p class="text">Volunteered as a F!rosh leedur at UofT engineering orientation<br>
+      </p>
+    </div>
+  </div>
+</div>
+</body>
+</html>
