@@ -73,3 +73,60 @@
     opacity: 1; /* Display description when image is checked */
   }
   
+
+  /* old stuff from html */
+
+  ---
+layout: archive
+title: "Hobbies"
+permalink: /hobbies/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://yumeymmt.github.io/_pages/hobbies.css"> 
+</head>
+<body>
+  <div class="gallery">
+    <input type="checkbox" >
+    <figure>
+      <img src='/images/500x300.png' alt="a forest after an apocalypse">
+      <figcaption>a forest after an apocalypse</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a waterfall and many rocks">
+      <figcaption>a waterfall and many rocks</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a house on a mountain">
+      <figcaption>a house on a mountain</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a forest after an apocalypse">
+      <figcaption>a forest after an apocalypse</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a waterfall and many rocks">
+      <figcaption>a waterfall and many rocks</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a house on a mountain">
+      <figcaption>a house on a mountain</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a forest after an apocalypse">
+      <figcaption>a forest after an apocalypse</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a waterfall and many rocks">
+      <figcaption>a waterfall and many rocks</figcaption>
+    </figure>
+    <figure>
+      <img src='/images/500x300.png' alt="a house on a mountain">
+      <figcaption>a house on a mountain</figcaption>
+    </figure>
+  </div>
+</body>
+</html>
