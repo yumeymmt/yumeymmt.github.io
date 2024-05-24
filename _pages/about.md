@@ -13,7 +13,7 @@ redirect_from:
   I find passion in robotics, artificial intelligence, control systems, and just building things in general!<br>
   I also have a strong interest in aerospace and biomedical applications of robotics, as well as in systems engineering.<br>
   <br>
-  Head over to [Projects](https://academicpages.github.io/talks) and [Research](https://academicpages.github.io/talks) to see cool stuff.
+  Head over to [Projects](https://https://yumeymmt.github.io/projects/) and [Research](https://https://yumeymmt.github.io/research/) to see cool stuff.
 </span>
 
 Education
