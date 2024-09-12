@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br>
 <span style="line-height: 1.5; font-size: 0.97em">
-  My name is Yume, and I am a third year Engineering Science student at the University of Toronto studying <strong>robotics engineering and artificial intelligence</strong>. <br>
+  My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <strong>Robotics Engineering and Artificial Intelligence</strong>. <br>
   <br>
   I find passion in all kinds of robotics systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also just building things in general!<br>
   <br>
@@ -36,21 +36,23 @@ Certificates
 <span style="line-height: 1.5; font-size: 0.97em">
   Certified SOLIDWORKS Associate in Mechanical Design<br> 
   <br>
-  Basic Machining (George Brown College)<br>
+  Fundamentals of Machining (George Brown College)<br>
 </span>
+
+<br>
 
 Awards
 ------
 <span style="line-height: 1.5; font-size: 0.97em">
-  Engineering Science Research Opportunity Program<br> 
+  Engineering Science Global Research Opportunity Program (2023)<br> 
   <br>
-  Dean's Honours List<br>
+  Dean's Honours List (2022 - 2024)<br>
   <br>
-  Dean's Merit Award<br>
+  Dean's Merit Award (2022)<br>
   <br>
-  Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450<br>
+  Make U of T Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450 (2023)<br>
   <br>
-  First Place - Engineering Case Competition by Qualcomm<br>
+  First Place - Engineering Case Competition by Qualcomm (2024)<br>
   <br>
-  Schulich Leader Scholarship Finalist
+  Schulich Leader Scholarship Finalist (2022)
 </span>
