@@ -73,7 +73,7 @@ Current Courses
 
 
 <div style="margin-bottom: 2px;">
-  <span style="font-weight: 600;">Past courses include:</span><span style="font-size: 0.93em;"></span>
+  <span style="font-weight: 650;">Past courses include:</span><span style="font-size: 0.93em;"></span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Math courses:</span> Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Circuits, computer and data structures related courses</span></span> <br>
