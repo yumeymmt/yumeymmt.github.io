@@ -76,6 +76,6 @@ Current Courses
   <span style="font-weight: 600;">Past courses include:</span><span style="font-size: 0.93em;"></span>
 </div>
 - <span style="font-size: 0.92em; line-height:1.5;">Math courses: Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;">Circuits, computer, and data structures related courses</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Circuits, computer and data structures related courses</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Miscellaneous physics courses: Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Others: Economics, global engineering, design courses</span><br>
