@@ -65,16 +65,16 @@ Awards
 
 Courses
 ------
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Data Structures and Analysis</span></span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Electronics for Robotics:</span> PCB design and circuit analysis</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation</span><br>
-- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;"><span style="font-weight: 650;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Data Structures and Analysis</span></span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Electronics for Robotics:</span> PCB design and circuit analysis</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation</span><br>
+- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;"><span style="font-weight: 620;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
 
 
 <div style="margin-bottom: 2px;">
   <span style="font-weight: 600;">Past courses include:</span><span style="font-size: 0.93em;"></span>
 </div>
-- <span style="font-size: 0.92em; line-height:1.5;">Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Many math courses: Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Circuits, computer, and data structures related courses</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;">Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Miscellaneous physics courses: Quantum, thermal, statistical mechanics, statics</span><br>
