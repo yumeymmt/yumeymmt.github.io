@@ -60,3 +60,19 @@ Awards
   <br>
   Schulich Leader Scholarship Finalist (2022)
 </span>
+
+<div style="margin-bottom: 5px;"></div>
+
+Courses
+------
+- **Dynamics:** Rotations, quaternions, and matrices
+- **Data Structures and Analysis**
+- **Electronics for Robotics:** PCB design and circuit analysis
+- **Introduction to Robotics:** Localization, mapping, path planning, navigation
+- **Mathematics for Robotics:** Controls, optimization, complex analysis
+
+## Past Courses
+
+- Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)
+- Circuits, computer, and data structures related courses
+- Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)
