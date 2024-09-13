@@ -69,7 +69,7 @@ Current Courses
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Data Structures and Analysis</span></span><br>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Electronics for Robotics:</span> PCB design, circuit analysis etc.</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation</span><br>
-- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;"><span style="font-weight: 620;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
 
 
 <div style="margin-bottom: 2px;">
@@ -78,3 +78,4 @@ Current Courses
 - <span style="font-size: 0.92em; line-height:1.5;">Math courses: Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Circuits, computer, and data structures related courses</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Miscellaneous physics courses: Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Others: Economics, global engineering, design courses</span><br>
