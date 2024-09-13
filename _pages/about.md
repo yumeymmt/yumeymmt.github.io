@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 <span style="line-height: 1.5; font-size: 0.97em">
-  My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <span style="font-weight: 670;">Robotics Engineering and Artificial Intelligence</span>. <br>
+  My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <span style="font-weight: 570;">Robotics Engineering and Artificial Intelligence</span>. <br>
   <br>
   I find passion in all kinds of robotic systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also just building things in general!<br>
   <br>
