@@ -33,7 +33,7 @@ Education
 - <span style="font-size: 0.92em; line-height:1.5;">Ontario Secondary School Diploma (OSSD)</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Talented Offerings in Programmes of Sciences</span><br>
 
-<br>
+<div style="margin-bottom: 5px;"></div>
 
 Certificates
 ------
@@ -43,12 +43,12 @@ Certificates
   Fundamentals of Machining (George Brown College)<br>
 </span>
 
-<br>
+<div style="margin-bottom: 5px;"></div>
 
 Awards
 ------
 <span style="line-height: 1.5; font-size: 0.97em">
-  Engineering Science Global Research Opportunity Program (2023)<br> 
+  Engineering Science Research Opportunity Program - Global (2023)<br> 
   <br>
   Dean's Honours List (2022 - 2024)<br>
   <br>
