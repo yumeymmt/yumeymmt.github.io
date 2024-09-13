@@ -65,7 +65,7 @@ Awards
 
 Courses
 ------
-- <span style="font-size: 0.92em; line-height:1.5;">Dynamics: Rotations, quaternions, and matrices</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 600;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Data Structures and Analysis</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Electronics for Robotics: PCB design and circuit analysis</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;">Introduction to Robotics: Localization, mapping, path planning, navigation</span><br>
