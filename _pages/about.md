@@ -65,19 +65,16 @@ Awards
 
 Courses
 ------
-<span style="line-height: 1.5; font-size: 0.97em;">
-  <ul>
-    <li><strong>Dynamics:</strong> Rotations, quaternions, and matrices</li>
-    <li><strong>Data Structures and Analysis</strong></li>
-    <li><strong>Electronics for Robotics:</strong> PCB design and circuit analysis</li>
-    <li><strong>Introduction to Robotics:</strong> Localization, mapping, path planning, navigation</li>
-    <li><strong>Mathematics for Robotics:</strong> Controls, optimization, complex analysis</li>
-  </ul>
+- <span style="font-size: 0.92em; line-height:1.5;">Dynamics: Rotations, quaternions, and matrices</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Data Structures and Analysis</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Electronics for Robotics: PCB design and circuit analysis</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Introduction to Robotics: Localization, mapping, path planning, navigation</span><br>
+- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">Mathematics for Robotics:</strong> Controls, optimization, complex analysis</span>
 
-  <p>Past courses include:</p>
-  <ul>
-    <li>Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)</li>
-    <li>Circuits, computer, and data structures related courses</li>
-    <li>Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)</li>
-  </ul>
-</span>
+
+<div style="margin-bottom: 2px;">
+  <span style="font-weight: 600;">Past courses include:</span><span style="font-size: 0.93em;"></span>
+</div>
+- <span style="font-size: 0.92em; line-height:1.5;">Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Circuits, computer, and data structures related courses</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;">Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)</span><br>
