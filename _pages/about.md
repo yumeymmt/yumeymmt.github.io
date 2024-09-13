@@ -63,11 +63,11 @@ Awards
 
 <div style="margin-bottom: 5px;"></div>
 
-Courses
+Current Courses
 ------
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Data Structures and Analysis</span></span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Electronics for Robotics:</span> PCB design and circuit analysis</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Electronics for Robotics:</span> PCB design, circuit analysis etc.</span><br>
 - <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation</span><br>
 - <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;"><span style="font-weight: 620;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
 
