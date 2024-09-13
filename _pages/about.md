@@ -12,7 +12,7 @@ redirect_from:
   <br>
   I find passion in all kinds of robotic systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also just building things in general!<br>
   <br>
-  Head over to [Projects](https://yumeymmt.github.io/projects/) and [Research](https://yumeymmt.github.io/research/) to see cool stuff.
+  Head over to [Projects](https://yumeymmt.github.io/projects/) and [Research/Work](https://yumeymmt.github.io/research-work/) to see cool stuff.
 </span>
 
 <br>
