@@ -15,8 +15,8 @@ main:
   - title: "Research/Work"
     url: /research-work/  
     
-  - title: "Course Work"
-    url: /coursework/
+  # - title: "Course Work"
+  #   url: /coursework/
 
   - title: "Hobbies"
     url: /hobbies/  
