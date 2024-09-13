@@ -65,11 +65,11 @@ Awards
 
 Courses
 ------
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 700;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 700;">Data Structures and Analysis</span></span><br>
-- <span style="font-size: 0.92em; line-height:1.5;">Electronics for Robotics: PCB design and circuit analysis</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;">Introduction to Robotics: Localization, mapping, path planning, navigation</span><br>
-- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;">Mathematics for Robotics:</strong> Controls, optimization, complex analysis</span>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Dynamics:</span> Rotations, quaternions, and matrices</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Data Structures and Analysis</span></span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Electronics for Robotics:</span> PCB design and circuit analysis</span><br>
+- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 650;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation</span><br>
+- <span style="font-size: 0.92em; line-height:1.5; margin-bottom: 10px;"><span style="font-weight: 650;">Mathematics for Robotics:</span> Controls, optimization, complex analysis</span>
 
 
 <div style="margin-bottom: 2px;">
