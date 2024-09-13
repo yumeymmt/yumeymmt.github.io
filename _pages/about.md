@@ -75,7 +75,7 @@ Current Courses
 <div style="margin-bottom: 2px;">
   <span style="font-weight: 645;">Past courses include:</span><span style="font-size: 0.93em;"></span>
 </div>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Math courses:</span> Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Circuits, computer and data structures related courses</span></span> <br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Miscellaneous physics courses:</span>  Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
-- <span style="font-size: 0.92em; line-height:1.5;"><span style="font-weight: 620;">Others:</span>  Economics, global engineering, design courses</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Math courses:</span> Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Circuits, computer and data structures related courses</span></span> <br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Miscellaneous physics courses:</span>  Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Others:</span>  Economics, global engineering, design courses</span><br>
