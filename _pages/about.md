@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 <span style="line-height: 1.5; font-size: 0.97em">
-  My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <span style="font-weight: 570;">Robotics Engineering and Artificial Intelligence</span>. <br>
+  My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <span style="font-weight: 600;">Robotics Engineering and Artificial Intelligence</span>. <br>
   <br>
   I find passion in all kinds of robotic systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also just building things in general!<br>
   <br>
@@ -65,17 +65,17 @@ Awards
 
 Current Courses
 ------
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Dynamics:</span> Rotations, quaternions, and matrices and more</span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Data Structures and Analysis</span></span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Electronics for Robotics:</span> PCB design, circuit analysis etc.</span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation...</span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Mathematics for Robotics:</span> Controls, optimization, complex analysis etc.</span>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Dynamics:</span> Rotations, quaternions, and matrices and more</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Data Structures and Analysis</span></span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Electronics for Robotics:</span> PCB design, circuit analysis etc.</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Introduction to Robotics:</span> Localization, mapping, path planning, navigation...</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Mathematics for Robotics:</span> Controls, optimization, complex analysis etc.</span>
 
 
 <div style="margin-bottom: 2px;">
   <span style="font-weight: 645;">Past courses include:</span><span style="font-size: 0.93em;"></span>
 </div>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Math courses:</span> Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Circuits, computer and data structures related courses</span></span> <br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Miscellaneous physics courses:</span>  Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
-- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 620;">Others:</span>  Economics, global engineering, design courses</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Math courses:</span> Multivariate/vector calculus, ODE, linear algebra, statistics etc.</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Circuits, computer and data structures related courses</span></span> <br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Miscellaneous physics courses:</span>  Quantum, thermal, statistical mechanics, statics, mechanics</span><br>
+- <span style="font-size: 0.92em; line-height:1.7;"><span style="font-weight: 625;">Others:</span>  Economics, global engineering, design courses</span><br>
