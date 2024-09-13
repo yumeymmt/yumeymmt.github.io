@@ -65,15 +65,19 @@ Awards
 
 Courses
 ------
-<span style="line-height: 1.5; font-size: 0.97em">
-  - **Dynamics:** Rotations, quaternions, and matrices<br>
-  - **Data Structures and Analysis**<br>
-  - **Electronics for Robotics:** PCB design and circuit analysis<br>
-  - **Introduction to Robotics:** Localization, mapping, path planning, navigation<br>
-  - **Mathematics for Robotics:** Controls, optimization, complex analysis<br><br>
+<span style="line-height: 1.5; font-size: 0.97em;">
+  <ul>
+    <li><strong>Dynamics:</strong> Rotations, quaternions, and matrices</li>
+    <li><strong>Data Structures and Analysis</strong></li>
+    <li><strong>Electronics for Robotics:</strong> PCB design and circuit analysis</li>
+    <li><strong>Introduction to Robotics:</strong> Localization, mapping, path planning, navigation</li>
+    <li><strong>Mathematics for Robotics:</strong> Controls, optimization, complex analysis</li>
+  </ul>
 
-  Past courses include:<br>
-  - Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)<br>
-  - Circuits, computer, and data structures related courses<br>
-  - Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)
+  <p>Past courses include:</p>
+  <ul>
+    <li>Many math courses (Multivariate/vector calculus, ODE, linear algebra, statistics)</li>
+    <li>Circuits, computer, and data structures related courses</li>
+    <li>Miscellaneous physics courses (quantum, thermal, statistical mechanics, statics)</li>
+  </ul>
 </span>
