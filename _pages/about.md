@@ -10,7 +10,7 @@ redirect_from:
 <span style="line-height: 1.5; font-size: 0.97em">
   My name is Yume, and I am a third year Engineering Science student at the University of Toronto, studying <span style="font-weight: 600;">Robotics Engineering and Artificial Intelligence</span>. <br>
   <br>
-  I find passion in all kinds of robotic systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also just building things in general!<br>
+  I find passion in all kinds of robotic systems -- controlling anything physical using code, from planes, cars, rovers, and medical/assistive robots. I also like just building things in general!<br>
   <br>
   Head over to [Projects](https://yumeymmt.github.io/projects/) and [Research/Work](https://yumeymmt.github.io/research-work/) to see cool stuff.
 </span>
