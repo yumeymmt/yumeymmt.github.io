@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: '<a href="https://engsci.utoronto.ca/program/majors/robotics-engineering/" style="color: var(--global-theme-color); text-decoration: none;" target="_blank">Robotics Engineering</a> student at Engineering Science, <span style="color: var(--global-theme-color);">University of Toronto</span>'
+subtitle: '<a href="https://engsci.utoronto.ca/program/majors/robotics-engineering/" style="color: var(--global-theme-color); font-weight: bold; text-decoration: none;" target="_blank">Robotics Engineering</a> student at Engineering Science, <span style="color: var(--global-theme-color); font-weight: bold;">University of Toronto</span>'
 
 profile:
   align: right
@@ -29,12 +29,12 @@ Hi there!
 
 My name is <strong><span style="color: var(--global-theme-color);">Yume Yamamoto</span></strong>, and I'm in my fourth year of Robotics Engineering at Engineering Science, University of Toronto.
 
-I have <strong><span style="color: var(--global-theme-color);">8+ years of experience</span></strong> in robotics, working with automotive, aerospace, mobile robots, manufacturing, and embedded systems.  
+I have <strong><span style="color: var(--global-theme-color);">8+ years of experience</span></strong> in robotics and <strong><span style="color: var(--global-theme-color);">3+ years</span></strong> of technical leadership, working with automotive, aerospace, mobile robots, manufacturing, and embedded systems.  
 
-Some things I enjoy:
+Some things I enjoy as an engineer:
 - Developing software for physical systems 
 - Testing and seeing robots work (or break) 
-- Working in teams!
+- Working in teams
 - System integration and deployment
 - Preparing robots for the real, uncertain world 
  
@@ -42,7 +42,9 @@ Feel free to contact me through LinkedIn or email (yume.yamamoto[at]mail.utoront
 
 <div style="clear: both;"></div>
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Recent Work &amp; Research Experience</h3>
+<h3 style="font-size: 1.1rem; font-weight: 300; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">
+  Recent Work &amp; Research Experience
+</h3>
 
 <div style="margin-bottom: 1.5rem;">
 <strong>Autonomous Vehicle - Software Safety Intern</strong><br>
@@ -75,39 +77,58 @@ Feel free to contact me through LinkedIn or email (yume.yamamoto[at]mail.utoront
 
 <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Best Paper Award</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">International Conference on AI &middot; 2023</span>
-
-- Recognized for breakthrough contributions to federated learning
+<div style="margin-bottom: 1.0rem;">
+Dean's Honours List (2022 - 2025)<br>
 </div>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Outstanding Researcher of the Year</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Tech Innovation Lab &middot; 2022</span>
+<div style="margin-bottom: 1.0rem;">
+Engineering Science Research Opportunity Program (ESROP) - Global (2023)<br>
 </div>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Graduate Fellowship</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">National Science Foundation &middot; 2018–2020</span>
+<div style="margin-bottom: 1.0rem;">
+First Place - Engineering Case Competition by Qualcomm (2024)<br>
+</div>
+
+<div style="margin-bottom: 1.0rem;">
+Make U of T Hackathon Qualcomm Sponsored Prize - Best Innovative Use of Qualcomm HDK8450 (2023)<br>
+</div>
+
+<div style="margin-bottom: 1.0rem;">
+Dean's Merit Award - Entrance Scholarship (2022)<br>
+</div>
+
+<div style="margin-bottom: 1.0rem;">
+Schulich Leader Scholarship Finalist (2022)<br>
+</div>
+
+<div style="margin-bottom: 1.0rem;">
+FIRST Robotics Dean's List Semi-finalist (2022)
+<br>
 </div>
 
 <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Professional Data Science Certification</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Data Science Academy &middot; 2021</span>
+
+<div style="margin-bottom: 1.0rem;">
+Certified SOLIDWORKS Associate in Mechanical Design (CSWA)<br>
 </div>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Cloud Architecture Certification</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">AWS &middot; 2020</span>
+<div style="margin-bottom: 1.0rem;">
+Fundamentals of Machining (George Brown College)<br>
 </div>
 
-<div style="margin-bottom: 1.5rem;">
-<strong>Advanced Machine Learning Specialization</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Online Learning Platform &middot; 2019</span>
+<div style="margin-bottom: 1.0rem;">
+Small Remotely Piloted Aircraft (VLOS) Basic operations (Transport Canada)<br>
 </div>
+
+<div style="margin-bottom: 1.0rem;">
+Working at Heights certification<br>
+</div>
+
+<div style="margin-bottom: 1.0rem;">
+Mobile Elevating Work Platform certification <br>
+</div>
+
 
 <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
 
