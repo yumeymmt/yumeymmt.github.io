@@ -3,8 +3,8 @@ layout: page
 title: Embedded Software Intern
 affiliation: DENSO
 description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+img: assets/img/denso.jpg
+skills: [C, Embedded system, Functional safety, ISO26262]
 importance: 1
 category: work
 no_link: true

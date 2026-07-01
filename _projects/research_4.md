@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Robotics Research Intern
-affiliation: Innovative Cognitive Computing Lab/KMUTT (Bangkok, Thailand)
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+affiliation: KMUTT (Bangkok, Thailand)
+description: Worked at the Innovative Cognitive Computing Lab as part of the ESROP program. Mobile robot simulation and sensor integration for Search and Rescue applications. 
+img: assets/img/ic2.jpg
+skills: [ROS, Gazebo, SLAM, Mobile robots]
 importance: 1
 category: research
 no_link: true

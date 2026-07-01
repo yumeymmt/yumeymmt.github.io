@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Robotics Research Intern
-affiliation: Neural Robotics Lab/Robotics Institute
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+affiliation: Neural Robotics Lab @ Robotics Institute
+description: Real-time control of robotic prosthetics using EMG. Supervised by Prof. Laschowski.
+img: assets/img/nrl.png
+skills: [Deep learning, EMG, Exoskeleton]
 importance: 1
 category: research
 no_link: true

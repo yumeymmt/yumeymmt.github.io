@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Embedded and Biomedical Research Intern
-affiliation: Franklin Research Lab/Ted Rogers Centre for Heart Research
+affiliation: Franklin Research Lab @ Ted Rogers Centre for Heart Research
 description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+img: assets/img/ted.jpg
+skills: [Embedded system, Circuit design, Controls, Medical device]
 importance: 1
 category: research
 no_link: true

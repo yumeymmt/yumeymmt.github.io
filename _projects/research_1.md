@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Thesis student
-affiliation: Toronto Robotics and AI Lab (TRAIL)
+affiliation: Toronto Robotics and AI Lab @ UofT Institute for Aerospace Studies
 description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
 img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+skills: [ROS2, Perception, Mobile robots, Isaac Sim, SLAM, Deep learning]
 importance: 1
 category: research
 no_link: false
