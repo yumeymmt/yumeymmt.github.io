@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotics Engineering student at Engineering Science, University of Toronto
+subtitle: '<a href="https://engsci.utoronto.ca/program/majors/robotics-engineering/" style="color: var(--global-theme-color); text-decoration: none;" target="_blank">Robotics Engineering</a> student at Engineering Science, <span style="color: var(--global-theme-color);">University of Toronto</span>'
 
 profile:
   align: right
@@ -23,77 +23,112 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<hr style="border: none; height: 2px; background-color: var(--global-theme-color); width: 60px; margin: 1.5rem 0; opacity: 0.8;">
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi there!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is <strong><span style="color: var(--global-theme-color);">Yume Yamamoto</span></strong>, and I'm in my fourth year of Robotics Engineering at Engineering Science, University of Toronto.
+
+I have <strong><span style="color: var(--global-theme-color);">8+ years of experience</span></strong> in robotics, working with automotive, aerospace, mobile robots, manufacturing, and embedded systems.  
+
+Some things I enjoy:
+- Developing software for physical systems 
+- Testing and seeing robots work (or break) 
+- Working in teams!
+- System integration and deployment
+- Preparing robots for the real, uncertain world 
+ 
+Feel free to contact me through LinkedIn or email (yume.yamamoto[at]mail.utoronto.ca).
 
 <div style="clear: both;"></div>
 
-## Work & Research Experiences
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Recent Work &amp; Research Experience</h3>
 
-**Senior Research Scientist**
-Tech Innovation Lab, 2022–Present
-- Developed machine learning algorithms for predictive analytics
-- Led a team of 5 researchers on flagship project
-- Published 8 peer-reviewed papers in top-tier venues
+<div style="margin-bottom: 1.5rem;">
+<strong>Autonomous Vehicle - Software Safety Intern</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">General Motors &middot; May 2026 - Aug 2026</span>
 
-**Research Engineer**
-Data Systems Inc., 2020–2022
-- Designed scalable data processing pipelines
-- Collaborated with cross-functional teams on cloud infrastructure
-- Mentored 3 junior engineers
+</div>
 
-## Education
+<div markdown="1" style="margin-bottom: 1.5rem;">
+<strong>Computer Vision Software Co-op</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Martinrea International Inc. &middot; May 2025 – Apr 2026</span>
 
-**Ph.D. in Computer Science**
-University of Excellence, 2020
-- Dissertation: "Advanced Methods in Distributed Machine Learning"
-- Advisor: Prof. John Smith
+</div>
 
-**M.Sc. in Computer Science**
-State University, 2017
-- Thesis: "Optimization Techniques in Neural Networks"
+<div markdown="1" style="margin-bottom: 1.5rem;">
+<strong>Thesis Student</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Toronto Robotics and AI Lab (TRAIL) &middot; 2025 – Present</span>
 
-**B.Sc. in Computer Science**
-State University, 2015
-- GPA: 3.9/4.0
+</div>
 
-## Awards
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Education</h3>
 
-**Best Paper Award**
-International Conference on AI, 2023
+<div markdown="1" style="margin-bottom: 1.5rem;">
+<strong>Bachelor of Applied Science (BASc) in Engineering Science</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">University of Toronto &middot; 2022 - 2027</span>
+
+- Major in Robotics Engineering 
+- Minor in Artificial Intelligence
+</div>
+
+
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
+
+<div style="margin-bottom: 1.5rem;">
+<strong>Best Paper Award</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">International Conference on AI &middot; 2023</span>
+
 - Recognized for breakthrough contributions to federated learning
+</div>
 
-**Outstanding Researcher of the Year**
-Tech Innovation Lab, 2022
+<div style="margin-bottom: 1.5rem;">
+<strong>Outstanding Researcher of the Year</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Tech Innovation Lab &middot; 2022</span>
+</div>
 
-**Graduate Fellowship**
-National Science Foundation, 2018–2020
+<div style="margin-bottom: 1.5rem;">
+<strong>Graduate Fellowship</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">National Science Foundation &middot; 2018–2020</span>
+</div>
 
-## Certificates
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
 
-**Professional Data Science Certification**
-Data Science Academy, 2021
+<div style="margin-bottom: 1.5rem;">
+<strong>Professional Data Science Certification</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Data Science Academy &middot; 2021</span>
+</div>
 
-**Cloud Architecture Certification**
-AWS, 2020
+<div style="margin-bottom: 1.5rem;">
+<strong>Cloud Architecture Certification</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">AWS &middot; 2020</span>
+</div>
 
-**Advanced Machine Learning Specialization**
-Online Learning Platform, 2019
+<div style="margin-bottom: 1.5rem;">
+<strong>Advanced Machine Learning Specialization</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Online Learning Platform &middot; 2019</span>
+</div>
 
-## Current Courses
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
 
-**Machine Learning 101**
-Spring 2024, Teaching Assistant
+<div style="margin-bottom: 1.5rem;">
+<strong>Machine Learning 101</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Spring 2024 &middot; Teaching Assistant</span>
+
 - Lecture: Advanced neural network architectures
 - Office hours: Monday & Wednesday, 2–3 PM
+</div>
 
-**Data Structures and Algorithms**
-Spring 2024, Guest Lecturer
+<div style="margin-bottom: 1.5rem;">
+<strong>Data Structures and Algorithms</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Spring 2024 &middot; Guest Lecturer</span>
+
 - Topics: Tree structures, dynamic programming, graph algorithms
+</div>
 
-**Natural Language Processing**
-Summer 2024, Instructor
+<div style="margin-bottom: 1.5rem;">
+<strong>Natural Language Processing</strong><br>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Summer 2024 &middot; Instructor</span>
+
 - Expected enrollment: 45 students
+</div>
