@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: '<a href="https://engsci.utoronto.ca/program/majors/robotics-engineering/" style="color: var(--global-theme-color); font-weight: bold; text-decoration: none;" target="_blank">Robotics Engineering</a> student at Engineering Science, <span style="color: var(--global-theme-color); font-weight: bold;">University of Toronto</span>'
+subtitle: '<a href="https://engsci.utoronto.ca/program/majors/robotics-engineering/" style="color: var(--global-theme-color); font-weight: 400; text-decoration: none;" target="_blank">Robotics Engineering</a> student at Engineering Science, <span style="color: var(--global-theme-color); font-weight: 400;">University of Toronto</span>'
 
 profile:
   align: right
@@ -32,17 +32,23 @@ My name is <strong><span style="color: var(--global-theme-color);">Yume Yamamoto
 I have <strong><span style="color: var(--global-theme-color);">8+ years of experience</span></strong> in robotics and <strong><span style="color: var(--global-theme-color);">3+ years</span></strong> of technical leadership, working with automotive, aerospace, mobile robots, manufacturing, and embedded systems.  
 
 Some things I enjoy as an engineer:
-- Developing software for physical systems 
-- Testing and seeing robots work (or break) 
-- Working in teams
-- System integration and deployment
-- Preparing robots for the real, uncertain world 
+<div style="margin-top: 0.8rem; margin-bottom: 1.2rem;">
+  <div>▸ Developing software for physical systems</div>
+  <div>▸ Testing and seeing robots work (or break)</div>
+  <div>▸ Working in teams</div>
+  <div>▸ System integration and deployment</div>
+  <div>▸ Preparing robots for a real, uncertain world</div>
+</div>
  
-Feel free to contact me through LinkedIn or email (yume.yamamoto[at]mail.utoronto.ca).
+<p>
+  Feel free to contact me through
+  <a href="https://www.linkedin.com/in/yumeyamamoto/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  or email (yume.yamamoto[at]mail.utoronto.ca).
+</p>
 
 <div style="clear: both;"></div>
 
-<h3 style="font-size: 1.1rem; font-weight: 300; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">
+<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">
   Recent Work &amp; Research Experience
 </h3>
 
@@ -59,23 +65,29 @@ Feel free to contact me through LinkedIn or email (yume.yamamoto[at]mail.utoront
 </div>
 
 <div markdown="1" style="margin-bottom: 1.5rem;">
-<strong>Thesis Student</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Toronto Robotics and AI Lab (TRAIL) &middot; 2025 – Present</span>
-
+  <strong>Thesis Student</strong><br>
+  <span style="color: var(--global-text-color-light); font-size: 0.9rem;">
+    Toronto Robotics and AI Lab
+    <a href="https://www.trailab.utias.utoronto.ca/" target="_blank" rel="noopener noreferrer">(TRAIL)</a>
+    &middot; 2025 – Present
+  </span>
 </div>
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Education</h3>
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 400; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Education</h3>
 
 <div markdown="1" style="margin-bottom: 1.5rem;">
 <strong>Bachelor of Applied Science (BASc) in Engineering Science</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">University of Toronto &middot; 2022 - 2027</span>
+<span style="color: var(--global-text-color-light); font-size: 0.9rem;">
+University of Toronto &middot; 2022 – 2027
+</span>
 
-- Major in Robotics Engineering 
-- Minor in Artificial Intelligence
-</div>
+<p style="margin-top:0.5rem;">
+Robotics Engineering Major &bull;
+Artificial Intelligence Minor
+</p>
 
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
+<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
 
 <div style="margin-bottom: 1.0rem;">
 Dean's Honours List (2022 - 2025)<br>
@@ -106,7 +118,7 @@ FIRST Robotics Dean's List Semi-finalist (2022)
 <br>
 </div>
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
+<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
 
 
 <div style="margin-bottom: 1.0rem;">
@@ -130,26 +142,39 @@ Mobile Elevating Work Platform certification <br>
 </div>
 
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
-
-<div style="margin-bottom: 1.5rem;">
-<strong>Machine Learning 101</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Spring 2024 &middot; Teaching Assistant</span>
-
-- Lecture: Advanced neural network architectures
-- Office hours: Monday & Wednesday, 2–3 PM
-</div>
-
-<div style="margin-bottom: 1.5rem;">
-<strong>Data Structures and Algorithms</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Spring 2024 &middot; Guest Lecturer</span>
-
-- Topics: Tree structures, dynamic programming, graph algorithms
-</div>
-
-<div style="margin-bottom: 1.5rem;">
-<strong>Natural Language Processing</strong><br>
-<span style="color: var(--global-text-color-light); font-size: 0.9rem;">Summer 2024 &middot; Instructor</span>
-
-- Expected enrollment: 45 students
+<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.8rem;">
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Dynamics
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Control Theory
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Computer Vision
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Linear Algebra
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Digital/Analog Circuits
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Operating Systems
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Embedded Systems
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Machine Learning
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Deep Learning
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Data Structures & Algorithms
+  </span>
+  <span style="padding:0.3rem 0.7rem; border-radius:999px; background:var(--global-code-bg-color);">
+    Robot Kinematics
+  </span>
 </div>
