@@ -10,6 +10,17 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
+
+{% if site.enable_project_categories and page.display_categories %}
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin: 0 0 2rem 0;">
+  {% for category in page.display_categories %}
+  <a href=".#{{ category }}" style="text-decoration:none;">
+    <span style="padding:0.35rem 0.85rem; border-radius:999px; border:1px solid var(--global-theme-color); color:var(--global-theme-color); font-size:0.9rem; display:inline-block;">{{ category }}</span>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

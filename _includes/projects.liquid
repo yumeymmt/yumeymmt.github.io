@@ -1,0 +1,53 @@
+<div class="col-sm mt-3 mt-md-0">
+  {% if project.no_link %}
+  <div class="card h-100 hoverable">
+    {% if project.img %}
+    <figure>
+      {% include figure.liquid path=project.img class="card-img-top" alt="project thumbnail" %}
+    </figure>
+    {% endif %}
+    <div class="card-body" style="padding-top: 0.5rem;">
+      <h2 class="card-title" style="font-size: 1.20rem; margin-top: 0; margin-bottom: 0.25rem;">{{ project.title }}</h2>
+      {% if project.affiliation %}
+        <h6 class="card-subtitle text-muted" style="font-size: 0.8rem; margin-bottom: 0.75rem;">{{ project.affiliation }}</h6>
+      {% endif %}
+      <p class="card-text">{{ project.description }}</p>
+      {% if project.skills %}
+      <div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin-top: 0.75rem;">
+        {% for skill in project.skills %}
+        <span style="padding:0.25rem 0.6rem; border-radius:999px; border:1px solid var(--global-theme-color); color:var(--global-theme-color); font-size:0.75rem;">{{ skill }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <div class="row ml-1 mr-1 p-0">
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <a href="{{ project.url | relative_url }}" style="text-decoration: none; color: inherit;">
+  <div class="card h-100 hoverable">
+    {% if project.img %}
+    <figure>
+      {% include figure.liquid path=project.img class="card-img-top" alt="project thumbnail" %}
+    </figure>
+    {% endif %}
+    <div class="card-body" style="padding-top: 0.5rem;">
+      <h2 class="card-title" style="font-size: 1.25rem; margin-top: 0; margin-bottom: 0.25rem;">{{ project.title }}</h2>
+      {% if project.affiliation %}
+        <h6 class="card-subtitle text-muted" style="font-size: 0.8rem; margin-bottom: 0.75rem;">{{ project.affiliation }}</h6>
+      {% endif %}
+      <p class="card-text">{{ project.description }}</p>
+      {% if project.skills %}
+      <div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin-top: 0.75rem;">
+        {% for skill in project.skills %}
+        <span style="padding:0.25rem 0.6rem; border-radius:999px; border:1px solid var(--global-theme-color); color:var(--global-theme-color); font-size:0.75rem;">{{ skill }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+      <div class="row ml-1 mr-1 p-0">
+      </div>
+    </div>
+  </div>
+  </a>
+  {% endif %}
+</div>

@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: music
+affiliation: various orchestras
+description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
 img: assets/img/12.jpg
+skills: [ROS2, C++, SLAM]
 importance: 1
 category: fun
-related_publications: true
+no_link: true
 ---
 
 Every project has a beautiful feature showcase page.

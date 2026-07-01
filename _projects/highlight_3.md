@@ -1,8 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Theatrical Lighting Design
+affiliation: Campus theatre!
 description: with background image
 img: assets/img/12.jpg
+skills: [ROS2, C++, SLAM]
 importance: 1
 category: highlights
 related_publications: true
