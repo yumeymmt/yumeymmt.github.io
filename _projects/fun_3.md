@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Volunteering
-affiliation: uoft
-description: F!rosh, Skule Patrol, highschool robotics team mentor
-img: assets/img/frosh.JPG
+title: Travel
+affiliation: through work, research...
+description: From my recent work trip to Spain
+img: assets/img/spain.jpg
 skills: 
 importance: 1
 category: fun

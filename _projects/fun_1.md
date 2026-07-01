@@ -1,10 +1,10 @@
 ---
 layout: page
-title: music
+title: Music
 affiliation: various orchestras
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: ok violinist, beginner oboist
+img: assets/img/music.JPG
+skills: 
 importance: 1
 category: fun
 no_link: true
