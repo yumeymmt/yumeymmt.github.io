@@ -33,53 +33,67 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 ## Work & Research Experiences
 
-**Senior Research Scientist** | Tech Innovation Lab | 2022–Present
+**Senior Research Scientist**
+Tech Innovation Lab, 2022–Present
 - Developed machine learning algorithms for predictive analytics
 - Led a team of 5 researchers on flagship project
 - Published 8 peer-reviewed papers in top-tier venues
 
-**Research Engineer** | Data Systems Inc. | 2020–2022
+**Research Engineer**
+Data Systems Inc., 2020–2022
 - Designed scalable data processing pipelines
 - Collaborated with cross-functional teams on cloud infrastructure
 - Mentored 3 junior engineers
 
 ## Education
 
-**Ph.D. in Computer Science** | University of Excellence | 2020
+**Ph.D. in Computer Science**
+University of Excellence, 2020
 - Dissertation: "Advanced Methods in Distributed Machine Learning"
 - Advisor: Prof. John Smith
 
-**M.Sc. in Computer Science** | State University | 2017
+**M.Sc. in Computer Science**
+State University, 2017
 - Thesis: "Optimization Techniques in Neural Networks"
 
-**B.Sc. in Computer Science** | State University | 2015
+**B.Sc. in Computer Science**
+State University, 2015
 - GPA: 3.9/4.0
 
 ## Awards
 
-**Best Paper Award** | International Conference on AI | 2023
+**Best Paper Award**
+International Conference on AI, 2023
 - Recognized for breakthrough contributions to federated learning
 
-**Outstanding Researcher of the Year** | Tech Innovation Lab | 2022
+**Outstanding Researcher of the Year**
+Tech Innovation Lab, 2022
 
-**Graduate Fellowship** | National Science Foundation | 2018–2020
+**Graduate Fellowship**
+National Science Foundation, 2018–2020
 
 ## Certificates
 
-**Professional Data Science Certification** | Data Science Academy | 2021
+**Professional Data Science Certification**
+Data Science Academy, 2021
 
-**Cloud Architecture Certification** | AWS | 2020
+**Cloud Architecture Certification**
+AWS, 2020
 
-**Advanced Machine Learning Specialization** | Online Learning Platform | 2019
+**Advanced Machine Learning Specialization**
+Online Learning Platform, 2019
 
 ## Current Courses
 
-**Machine Learning 101** | Spring 2024 | Teaching Assistant
+**Machine Learning 101**
+Spring 2024, Teaching Assistant
 - Lecture: Advanced neural network architectures
 - Office hours: Monday & Wednesday, 2–3 PM
 
-**Data Structures and Algorithms** | Spring 2024 | Guest Lecturer
+**Data Structures and Algorithms**
+Spring 2024, Guest Lecturer
 - Topics: Tree structures, dynamic programming, graph algorithms
 
-**Natural Language Processing** | Summer 2024 | Instructor
+**Natural Language Processing**
+Summer 2024, Instructor
 - Expected enrollment: 45 students
