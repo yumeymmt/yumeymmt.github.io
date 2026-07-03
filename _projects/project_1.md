@@ -2,9 +2,9 @@
 layout: page
 title: CubeSat Design
 affiliation: University of Toronto Aerospace Team
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Detailed design of a 3U CubeSat (satellite). Designing various components while accounting for rigorous mass and volume requirements.
+img: assets/img/finch.png
+skills: [SolidWorks, Manufacuturing, Prototyping, 3D printing]
 importance: 1
 category: projects
 no_link: true

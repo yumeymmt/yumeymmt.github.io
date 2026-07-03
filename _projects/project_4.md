@@ -2,9 +2,9 @@
 layout: page
 title: Past Hackathons (x3)
 affiliation: Make UofT, WISE
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Autonomous chocolate launcher, magnetic accelerator (coil gun), and a case competition
+img: assets/img/hackathon.jpg
+skills: [Python, Rapid manufacturing, 3D printing, Integration]
 importance: 1
 category: projects
 no_link: false

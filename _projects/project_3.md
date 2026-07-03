@@ -1,10 +1,10 @@
 ---
 layout: page
 title: TARS
-affiliation: MIE438 - inspired by Interstellar
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+affiliation: MIE438 - inspired by the movie "Interstellar"
+description: Bipedal robot that can walk and talk (and wireless)
+img: assets/img/tars.jpg
+skills: [SolidWorks, Actuators, Controls, Circuit design, Embedded systems, Computer organization, Manufacturing]
 importance: 1
 category: projects
 no_link: true

@@ -2,9 +2,9 @@
 layout: page
 title: FIRST Robotics Competition
 affiliation: Captain, lead, mentor, volunteer
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Competed internationally as a captain of a robotics team (Arctos 6135)
+img: assets/img/arctos.jpg
+skills: [Electrical, Software, Java, Prototyping]
 importance: 1
 category: projects
 no_link: true
