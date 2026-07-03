@@ -68,7 +68,7 @@ Some things I enjoy as an engineer:
   <span style="padding:0.3rem 0.7rem; border-radius:999px; border:1px solid var(--global-theme-color); color:var(--global-theme-color); font-size:0.85rem; font-weight:400;">Controls</span>
 </div>
 
-<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">
+<h3 style="font-size: 1.1rem; font-weight: 425; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">
   Recent Work &amp; Research Experience
 </h3>
 
@@ -93,7 +93,7 @@ Some things I enjoy as an engineer:
   </span>
 </div>
 
-<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 400; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Education</h3>
+<h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 425; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Education</h3>
 
 <div markdown="1" style="margin-bottom: 1.5rem;">
 <strong>Bachelor of Applied Science (BASc) in Engineering Science</strong><br>
@@ -106,7 +106,7 @@ Robotics Engineering Major &bull;
 Artificial Intelligence Minor
 </p>
 
-<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
+<h3 style="font-size: 1.1rem; font-weight: 425; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Awards</h3>
 
 <!-- AWARDS: year badge + title in a row, instead of stacked plain divs -->
 <!-- Badge softened from solid purple fill to a tinted/outlined style -->
@@ -141,7 +141,7 @@ Artificial Intelligence Minor
   </div>
 </div>
 
-<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
+<h3 style="font-size: 1.1rem; font-weight: 425; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Certificates</h3>
 
 <!-- CERTIFICATES: 2-column grid, left-border accent retained -->
 <!-- CSWA and Machining certs stand out via a thicker border + font-weight 400 (normal) -->
@@ -152,7 +152,7 @@ Artificial Intelligence Minor
   <div style="padding:0.5rem 0 0.5rem 0.9rem; border-left:3px solid var(--global-theme-color);">Working at Heights +<br>Mobile Elevated Working Platform</div>
 </div>
 
-<h3 style="font-size: 1.1rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
+<h3 style="font-size: 1.1rem; font-weight: 425; text-transform: uppercase; letter-spacing: 0.05em; color: var(--global-theme-color); border-bottom: 1px solid var(--global-divider-color); padding-bottom: 0.4rem; margin-top: 3rem; margin-bottom: 1.2rem;">Relevant Courses</h3>
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.8rem;">
   <span style="padding:0.35rem 0.75rem; border-radius:6px; background:var(--global-code-bg-color); border:1px solid var(--global-divider-color); font-size:0.85rem; font-weight:400;">Dynamics</span>
   <span style="padding:0.35rem 0.75rem; border-radius:6px; background:var(--global-code-bg-color); border:1px solid var(--global-divider-color); font-size:0.85rem; font-weight:400;">Control Theory</span>
