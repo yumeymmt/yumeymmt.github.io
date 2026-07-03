@@ -13,7 +13,7 @@ nav_order: 5
 </style>
 
 <iframe
-  src="/assets/pdf/example_pdf.pdf"
+  src="/assets/pdf/resume_temp.pdf"
   title="Resume PDF"
   width="100%"
   height="1200"
