@@ -2,9 +2,9 @@
 layout: page
 title: Embedded and Biomedical Research Intern
 affiliation: Franklin Research Lab @ Ted Rogers Centre for Heart Research
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
+description: Developed a wearable medical device to detect endothelial dysfunction - a wireless BLE system with precise temperature controller for human skin. Supervised by Prof. Franklin. 
 img: assets/img/ted.jpg
-skills: [Embedded system, Circuit design, Controls, Medical device]
+skills: [Embedded systems, Circuit design, Controls, Medical device]
 importance: 1
 category: research
 no_link: true

@@ -2,9 +2,9 @@
 layout: page
 title: Software Safety Intern
 affiliation: General Motors
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Runtime integrity and functional safety of AV software.
+img: assets/img/gm.jpg
+skills: [Python, Systems Engineering, Functional safety, C++, Cursor]
 importance: 1
 category: work
 no_link: true

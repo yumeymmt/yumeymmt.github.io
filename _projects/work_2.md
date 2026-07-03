@@ -2,9 +2,9 @@
 layout: page
 title: Embedded Software Intern
 affiliation: DENSO
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
+description: Functional safety (FuSa) features for Basic Software (BSW) for engine ECUs.
 img: assets/img/denso.jpg
-skills: [C, Embedded system, Functional safety, ISO26262]
+skills: [C, Embedded systems, Functional safety, ISO26262]
 importance: 1
 category: work
 no_link: true

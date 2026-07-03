@@ -2,7 +2,7 @@
 layout: page
 title: Robotics Research Intern
 affiliation: Neural Robotics Lab @ Robotics Institute
-description: Real-time control of robotic prosthetics using EMG. Supervised by Prof. Laschowski.
+description: Real-time control of robotic prosthetics using EMG sensors. Supervised by Prof. Laschowski.
 img: assets/img/nrl.png
 skills: [Deep learning, EMG, Exoskeleton]
 importance: 1
