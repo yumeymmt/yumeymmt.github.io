@@ -2,12 +2,13 @@
 layout: page
 title: Theatrical Lighting Design
 affiliation: Campus theatre!
-description: with background image
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: I enjoy doing lighting design on campus💡
+img: assets/img/lx.jpg
+skills: [EOS, VectorWorks, Rigging, Working at Heights, Prototyping]
 importance: 1
 category: highlights
 related_publications: true
+no_link: true
 ---
 
 Every project has a beautiful feature showcase page.

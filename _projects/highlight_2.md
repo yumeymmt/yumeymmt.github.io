@@ -2,12 +2,13 @@
 layout: page
 title: Computer Vision Co-op
 affiliation: Martinrea International Inc.
-description: with background image
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Developed and integrated computer vision systems for automotive manufacuturing. 
+img: assets/img/mre.jpg
+skills: [Python, Deep learning, Cameras, Linux, FANUC, R&D]
 importance: 1
 category: highlights
 related_publications: true
+no_link: true
 ---
 
 Every project has a beautiful feature showcase page.

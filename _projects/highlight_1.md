@@ -2,12 +2,12 @@
 layout: page
 title: SAE Aero Design
 affiliation: University of Toronto Aerospace Team
-description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. 
-img: assets/img/12.jpg
-skills: [ROS2, C++, SLAM]
+description: Develop eVTOLs, fixed wings, drones, and small ground vehicles. Autonomous horizontal and vertical flight, precision landing, computer vision, and payload retrieval.  
+img: assets/img/sae.jpg
+skills: [Python, ROS, Gazebo, PX4, Mavlink, GPS, Localization, Controls, Avionics, Tailscale, C++, Flight Operations]
 importance: 1
 category: highlights
-no_link: false
+no_link: true
 ---
 
 Every project has a beautiful feature showcase page.

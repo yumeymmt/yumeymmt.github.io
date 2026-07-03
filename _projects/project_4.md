@@ -7,7 +7,7 @@ img: assets/img/hackathon.jpg
 skills: [Python, Rapid manufacturing, 3D printing, Integration]
 importance: 1
 category: projects
-no_link: false
+no_link: true
 ---
 
 Every project has a beautiful feature showcase page.
